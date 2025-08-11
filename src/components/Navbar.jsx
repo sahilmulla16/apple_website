@@ -42,8 +42,8 @@ const Navbar = () => {
 
       {/* Search Overlay */}
       {isSearchVisible && (
-        <div className="search-overlay">
-          <div className="search-header">
+        <div className="search-overlay ">
+          <div className="search-header ">
             <h2><img src={searchImg}  alt="search" width={18} height={18}></img></h2>
             <button
               className="close-button hover:opacity-85"

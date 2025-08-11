@@ -2,7 +2,7 @@ import * as THREE from 'three'
 import { Html, OrbitControls, PerspectiveCamera, View } from "@react-three/drei"
 import Lights from "./Lights"
 import { Suspense } from "react"
-import IPhones from './iPhones';
+import IPhones from './IPhones';
 import Loader from './Loader';
 // import { AmbientLight } from "three"
 
